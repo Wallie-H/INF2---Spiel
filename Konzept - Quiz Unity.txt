@@ -12,7 +12,7 @@ Konzept:
 -- Zweite Möglichkeit --
 - Textfläche für Fragen
 - 2 Buttons als Antwortmöglichkeit
--> Hierbei haben wir eine Frage aber nur zwei(2) Antwortmöglichkeiten. Die Fragen sind eher Fakten, wobei der Spieler mit den Buttons entweder mit Wahr oder Falsch antworten können.
+-> Hierbei haben wir eine Frage aber nur zwei(2) Antwortmöglichkeiten. Die Fragen sind eher Fakten, wobei der Spieler mit den Buttons entweder mit Wahr oder Falsch antworten kann.
 
 Bei beiden Quiz Möglichkeiten, die ich oben kurz beschrieben habe, werden die Fragen zufällig generiert und vorher über Unity von mir erstellt. Es ist kein gewisses Genre bzw. Themengebiet von mir festgelegt.
 
