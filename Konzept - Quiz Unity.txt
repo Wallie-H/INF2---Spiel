@@ -1,24 +1,22 @@
-Ich möchte gerne mit der Entwicklungsumgebung 'Unity' ein Quiz Spiel Programmieren.
+Ich mÃ¶chte gerne mit der Entwicklungsumgebung 'Unity' ein Quiz Spiel Programmieren.
 
-Für welche Platform ich dies genau mache, weiß ich noch nicht genau. Vielleicht für den PC oder für das Handy (Android).
+FÃ¼r welche Platform ich dies genau mache, weiÃŸ ich noch nicht genau. Vielleicht fÃ¼r den PC oder fÃ¼r das Handy (Android).
 
 Konzept:
 
--- Erste Möglichkeit -- 
-- Textfläche für Fragen
-- 4 Buttons als Antwortmöglichkeiten
--> Hierbei haben wir zu einer Frage vier(4) Antwortmöglichkeiten. Die Antwortmöglichkeiten werden als Text in einem Button dargestellt.
-Beispiel:
+-- Erste MÃ¶glichkeit -- 
+- TextflÃ¤che fÃ¼r Fragen
+- 4 Buttons als AntwortmÃ¶glichkeiten
+-> Hierbei haben wir zu einer Frage vier(4) AntwortmÃ¶glichkeiten. Die AntwortmÃ¶glichkeiten werden als Text in einem Button dargestellt.
 
+-- Zweite MÃ¶glichkeit --
+- TextflÃ¤che fÃ¼r Fragen
+- 2 Buttons als AntwortmÃ¶glichkeit
+-> Hierbei haben wir eine Frage aber nur zwei(2) AntwortmÃ¶glichkeiten. Die Fragen sind eher Fakten, wobei der Spieler mit den Buttons entweder mit Wahr oder Falsch antworten kÃ¶nnen.
 
--- Zweite Möglichkeit --
-- Textfläche für Fragen
-- 2 Buttons als Antwortmöglichkeit
--> Hierbei haben wir eine Frage aber nur zwei(2) Antwortmöglichkeiten. Die Fragen sind eher Fakten, wobei der Spieler mit den Buttons entweder mit Wahr oder Falsch antworten können.
+Bei beiden Quiz MÃ¶glichkeiten, die ich oben kurz beschrieben habe, werden die Fragen zufÃ¤llig generiert und vorher Ã¼ber Unity von mir erstellt. Es ist kein gewisses Genre bzw. Themengebiet von mir festgelegt.
 
-Bei beiden Quiz Möglichkeiten, die ich oben kurz beschrieben habe, werden die Fragen zufällig generiert und vorher über Unity von mir erstellt. Es ist kein gewisses Genre bzw. Themengebiet von mir festgelegt.
-
-Das Design steht in diesem Spiel im Hintergrund, nur die Funktionalitäten wurden genannt
+Das Design steht in diesem Spiel im Hintergrund, nur die FunktionalitÃ¤ten wurden genannt
 
 Ziel:
-Ziel des Spiels und von jedem Quiz ist es, sein Wissen auf die Probe zu stellen und dabei Spaß zu haben.
+Ziel des Spiels und von jedem Quiz ist es, sein Wissen auf die Probe zu stellen und dabei SpaÃŸ zu haben.
